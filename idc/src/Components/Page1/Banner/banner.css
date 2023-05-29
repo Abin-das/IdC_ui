@@ -1,0 +1,52 @@
+.banner_img {
+  height: 500px;
+  background-image: url("../../../Picture/Mask\ Group.png");
+  background-size: cover;
+}
+.heading_text {
+  top: 30%;
+  position: absolute;
+  margin-left: 240px;
+  text-transform: capitalize !important;
+}
+.top_heading {
+  color: white;
+  font-weight: 700;
+  font-size: 45px;
+  text-transform: capitalize !important;
+  font-family: "Montserrat";
+  color: #ffffff;
+}
+.sub_text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: capitalize !important;
+
+  color: #ffffff;
+}
+.buttons {
+  width: 270px;
+  height: 64px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .banner_img {
+    overflow: hidden;
+    background-image: url("../../../Picture/Mask\ Group.png");
+    background-size: cover;
+  }
+
+  .heading_text {
+    top: 8%;
+    margin: 10px;
+    text-align: center;
+
+    margin-left: 0px;
+    text-transform: capitalize !important;
+  }
+}

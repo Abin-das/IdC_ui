@@ -1,0 +1,23 @@
+ul {
+  padding: 10px;
+
+  list-style-type: none;
+  height: 40px;
+}
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.nav_img_11 {
+  object-fit: cover;
+  height: 40px !important;
+  margin-left: 20px;
+}
+.nav_img_2 {
+  object-fit: cover;
+  height: 35px !important;
+  margin-right: 10px;
+}

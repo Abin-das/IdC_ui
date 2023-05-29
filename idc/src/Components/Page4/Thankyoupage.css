@@ -1,0 +1,65 @@
+.FinalCard {
+  width: 400px;
+  height: 350px;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+  border-radius: 18px;
+}
+
+.thanku_img {
+  height: 600px;
+}
+.Center {
+  text-align: center;
+}
+.width {
+  width: 400px;
+}
+.thank-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+}
+.part {
+  color: #0093d0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  margin-top: -40px;
+}
+.subtext-2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #565656;
+}
+.nav_img_1 {
+  width: 80px;
+  margin-bottom: -30px;
+}
+.stage {
+  color: #9a9a9a;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  margin-bottom: -10px;
+}
+
+.Expert {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  margin-bottom: -10px;
+}
+.download {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  color: #757575;
+}

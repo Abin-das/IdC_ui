@@ -1,0 +1,37 @@
+.sub1 {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 12px;
+  line-height: 21px;
+  text-transform: capitalize;
+  margin: 5px;
+}
+.img1 {
+  height: 100px;
+  object-fit: contain;
+}
+.subtext {
+  display: flex;
+  justify-content: center;
+
+  height: 150px;
+  background: #f8f8f8;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .sub1 {
+display: block;
+  align-items: center;
+  width: 300px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 12px;
+  line-height: 21px;
+  text-transform: capitalize;
+  margin: 5px;
+}
+}

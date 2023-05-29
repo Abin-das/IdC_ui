@@ -1,0 +1,103 @@
+.grid {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.nav_img_1 {
+  height: 75px !important;
+  margin-bottom: -12px;
+}
+.text {
+  font-family: "Montserrat" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  text-transform: capitalize;
+  color: #565656;
+  margin-left: 240px;
+}
+.cardd {
+  text-align: center;
+}
+.areyou {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+}
+.takejust {
+  color: #757575;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150.4%;
+  text-transform: capitalize;
+}
+.side {
+  margin-left: 50px !important;
+}
+.biggrid {
+  margin-left: 50px;
+}
+.gridd {
+  border: 1px solid #e3e3e3;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.16);
+  border-radius: 11px !important;
+}
+.btn {
+  margin-top: -10px !important;
+  margin-bottom: 10px !important;
+  background-color: #ffffff !important;
+  color: #0093d0 !important;
+  width: 250px;
+  height: 64px;
+
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.2)
+    ),
+    #ffffff;
+  border: 1px solid #0078aa;
+  border-radius: 8px;
+}
+.button {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.subtextt {
+  color: white;
+  margin-top: -40px;
+  text-align: center;
+  background: #0093d0;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.16);
+  border-radius: 11px;
+}
+.auto {
+  color: #0093d0;
+  margin-top: -2px;
+}
+.start {
+  padding-top: 20px;
+}
+.terms {
+  margin-top: -15px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .side {
+    padding: 10px;
+    margin-left: 0px !important;
+  }
+  .text {
+    padding: 20px;
+    margin-left: 0px;
+  }
+  .grid {
+    margin-bottom: 0px;
+  }
+}

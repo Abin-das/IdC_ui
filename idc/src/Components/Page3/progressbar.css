@@ -1,0 +1,50 @@
+.miniNavbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #f9f9f9;
+  position: sticky;
+  top: 0px;
+}
+.progress {
+  margin-top: 30px;
+  display: flex;
+}
+.num {
+  margin-right: 20px;
+  margin-top: -8px;
+}
+.one {
+  color: #0093d0;
+}
+.textcen {
+  margin: 100px !important;
+}
+.cardstyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center !important;
+  width: 500px;
+  height: 107px;
+  background: #ffffff;
+  margin: 50px;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+  color: red;
+}
+.cardstyle1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center !important;
+  width: 500px;
+  height: 107px;
+  background: #ffffff;
+  margin: 50px;
+  box-shadow: -6px 8px 17px 1px rgba(106, 105, 105, 0.11);
+  border-radius: 24px;
+}
+.grid {
+  grid-template-columns: 1fr 1fr 1fr !important;
+}
